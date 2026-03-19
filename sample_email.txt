@@ -1,0 +1,16 @@
+Return-Path: <bounces@sketchy-marketing.com>
+Received: from mail.sketchy-marketing.com (192.168.100.5) by your-mail-server.com
+From: "IT Support" <admin@yourcompany.com>
+Subject: URGENT: Verify your account immediately!
+Date: Mon, 09 Mar 2026 13:00:00 +0530
+
+Dear User,
+
+Your account has been compromised. We need you to verify your credentials to prevent us from having to suspend your access. 
+
+Please click the link below to secure your account:
+http://10.0.5.55/login.php
+https://yourcompany.secure-login-update.com/auth
+
+Thank you,
+IT Support

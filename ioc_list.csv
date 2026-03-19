@@ -1,0 +1,6 @@
+type,value
+IP,192.168.1.99
+IP,10.0.0.50
+HASH,a591a6d40bf420404a011733cfb7b190
+HASH,b89356eb553f1246c6ea9b2138cdfb51
+DOMAIN,evil-malware-site.com
